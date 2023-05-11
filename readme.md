@@ -1,5 +1,5 @@
 # prettyPlot
 
-publication quality plot based on my reference. 
+python matplotlibrc file to produce publication quality plots, based on my reference. 
 
 
